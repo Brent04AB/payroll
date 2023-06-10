@@ -1,0 +1,34 @@
+C:\Users\tvl 85\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\tvl 85\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\tvl 85\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\tvl 85\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\tvl 85\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\tvl 85\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\tvl 85\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\tvl 85\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\tvl 85\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Index.resources
+C:\Users\tvl 85\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.AdminHomepage.resources
+C:\Users\tvl 85\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.addnewclass.resources
+C:\Users\tvl 85\Desktop\Payroll system (Group 6)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\tvl 85\Desktop\Payroll system (Group 6)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\tvl 85\Desktop\Payroll system (Group 6)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\tvl 85\Desktop\Payroll system (Group 6)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\tvl 85\Desktop\Payroll system (Group 6)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\tvl 85\Desktop\Payroll system (Group 6)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\tvl 85\Desktop\Payroll system (Group 6)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.index.resources
+C:\Users\tvl 85\Desktop\Payroll system (Group 6)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.adminhomepage.resources
+C:\Users\tvl 85\Desktop\Payroll system (Group 6)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.addnewclass.resources
+C:\Users\tvl 85\Desktop\Payroll system (Group 6)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\tvl 85\Desktop\Payroll system (Group 6)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\tvl 85\Desktop\Payroll system (Group 6)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Addnewemployee.resources
+C:\Users\tvl 85\Desktop\Payroll system (Group 6)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.EmployeeReport.resources
+C:\Users\tvl 85\Desktop\Payroll system (Group 6)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Salary.resources
+C:\Users\tvl 85\Desktop\Payroll system (Group 6)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.printsalary.resources
+C:\Users\tvl 85\Desktop\Payroll system (Group 6)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.adminsalaryreport.resources
+C:\Users\tvl 85\Desktop\Payroll system (Group 6)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form11.resources
+C:\Users\tvl 85\Desktop\Payroll system (Group 6)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
+C:\Users\tvl 85\Desktop\Payroll system (Group 6)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Yearwise.resources
+C:\Users\tvl 85\Desktop\Payroll system (Group 6)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.eaccount.resources
+C:\Users\tvl 85\Desktop\Payroll system (Group 6)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.sreportreceipt.resources
+C:\Users\tvl 85\Desktop\Payroll system (Group 6)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.eleave.resources
+C:\Users\tvl 85\Desktop\Payroll system (Group 6)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.esalaryreport.resources
